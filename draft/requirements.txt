@@ -1,0 +1,4 @@
+zmq
+keras
+h5py
+tensorflow
